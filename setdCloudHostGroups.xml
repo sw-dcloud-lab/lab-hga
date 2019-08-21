@@ -150,7 +150,9 @@
                             <host-group id="38" name="Domain Controllers" host-baselines="true" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" send-to-cta="false">
                                 <ip-address-ranges>198.19.20.10</ip-address-ranges>
                             </host-group>
-                            <host-group id="28" name="File Servers" host-baselines="true" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" send-to-cta="false" />
+                            <host-group id="28" name="File Servers" host-baselines="true" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" send-to-cta="false">
+                                <ip-address-ranges>198.19.30.36</ip-address-ranges>
+                            </host-group>
                             <host-group id="30" name="Mail Servers" host-baselines="true" suppress-excluded-services="true" inverse-suppression="false" host-trap="false" send-to-cta="false">
                                 <ip-address-ranges>10.201.0.21</ip-address-ranges>
                                 <ip-address-ranges>10.201.0.25</ip-address-ranges>
