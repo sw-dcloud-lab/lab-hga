@@ -12,11 +12,10 @@
                         <ip-address-ranges>172.16.0.0/12</ip-address-ranges>
                         <ip-address-ranges>192.168.0.0/16</ip-address-ranges>
                         <ip-address-ranges>198.18.133.</ip-address-ranges>
+                        <ip-address-ranges>198.18.1.</ip-address-ranges>
                         <ip-address-ranges>198.19.10.0/24</ip-address-ranges>
-                        <ip-address-ranges>198.19.20.</ip-address-ranges>
-                        <ip-address-ranges>199.204.23.227</ip-address-ranges>
-                        <ip-address-ranges>216.235.148.41</ip-address-ranges>
-                        <ip-address-ranges>216.235.148.42</ip-address-ranges>
+                        <ip-address-ranges>198.19.20.0/24</ip-address-ranges>
+                        <ip-address-ranges>198.19.30.0/24</ip-address-ranges>
                         <ip-address-ranges>fc00::/7</ip-address-ranges>
                     </host-group>
                     <host-group id="134" name="Business Units" host-baselines="false" suppress-excluded-services="false" inverse-suppression="false" host-trap="false" send-to-cta="false">
